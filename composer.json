@@ -4,7 +4,8 @@
     "keywords": [
         "Triskily",
         "laravel",
-        "laravel-strict-validation"
+        "laravel-strict-validation",
+        "validation"
     ],
     "homepage": "https://github.com/triskily/laravel-strict-validation",
     "license": "MIT",
