@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Triskily\StrictValidation\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class StrictValidationCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-strict-validation';
 
     public $description = 'My command';
 
